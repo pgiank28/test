@@ -1,2 +1,2 @@
 # twiterra
-fast web framework
+fast web framework for speed access to tweetdeck
